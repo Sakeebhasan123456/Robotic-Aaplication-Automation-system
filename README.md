@@ -1,5 +1,5 @@
 
-# IMSS_APP_DFL_Priyansh
+# Robotic_Aaplication_Automation System
 
 A Python-based automation and scraping tool designed to interact with Android devices using Appium. This project performs device-level automation to collect and serve data through a backend server.
 
@@ -105,11 +105,6 @@ Manual testing can be done by observing console logs while:
 - Checking outputs from the backend server
 
 ---
-
-## 👤 Author
-
-**Priyansh**  
-Built with 💻 and ⚙️ for automation lovers.
 
 ---
 
